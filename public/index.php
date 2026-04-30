@@ -14,6 +14,7 @@
             <button class="navbarbuttons" > Update </button>
             <button class="navbarbuttons" > Delete </button>
     </nav>
+    
     <section id="home" class="homecontent"> 
         <h1 class="splash">Welcome to Student Management System</h1>
         <h2 class="splash">A Project in Integrative Programming Technologies</h2>
